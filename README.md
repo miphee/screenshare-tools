@@ -18,3 +18,6 @@ Not for finding cheats, but rather to find someone's Minecraft alternate account
 
 ## TamperTrace
 Inspired by [services.ps1 by praiselily](https://github.com/praiselily/lilith-ps/blob/main/Services.ps1), this tool gathers and displays a summary of system information, specifically services, boot time, prefetch and connected drives
+
+
+credits: 💯 claude
